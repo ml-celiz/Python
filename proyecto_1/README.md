@@ -1,7 +1,6 @@
 # Aplicación Zona Fit con Flask y MySQL
 
-Aplicacion web para la gestión de clientes de un gimnasio. Permite realizar la gestión de clientes 
-de un gimnasio. Realiza operaciones CRUD sobre una base de datos MySQL, almacenando información 
+Aplicacion web para la gestión de clientes de un gimnasio. Realiza operaciones CRUD sobre una base de datos MySQL, almacenando información 
 como Id, Nombre, Apellido y Membresía.
 
 ---
