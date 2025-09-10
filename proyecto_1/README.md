@@ -22,7 +22,7 @@ proyecto_1
 |
 └── /.venv                          # Entorno virtual de Python
 |
-└── /data/zona_fit_app_sql          # Script SQL para la base de datos
+└── /data/zona_fit_app.sql          # Script SQL para la base de datos
 |
 └── /zona_fit_app/.idea             # Configuración del entorno de desarrollo (IDE)
 |
@@ -50,7 +50,7 @@ proyecto_1
     ```bash
     pip install flask mysql-connector-python wtforms
 4. Configurar la base de datos
-- Importa el archivo SQL ubicado en /data/zona_fit_app_sql a tu servidor MySQL.
+- Importa el archivo SQL ubicado en /data/zona_fit_app.sql a tu servidor MySQL.
 - Ajusta las credenciales de conexión en conexion.py.
 5. Ejecutar la aplicación
     ```bash
